@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/React-ShoppingAPI/static/css/main.51b4ac36.chunk.css",
+    "main.js": "/React-ShoppingAPI/static/js/main.6077d743.chunk.js",
+    "main.js.map": "/React-ShoppingAPI/static/js/main.6077d743.chunk.js.map",
+    "runtime-main.js": "/React-ShoppingAPI/static/js/runtime-main.a69da659.js",
+    "runtime-main.js.map": "/React-ShoppingAPI/static/js/runtime-main.a69da659.js.map",
+    "static/css/2.1c5d1208.chunk.css": "/React-ShoppingAPI/static/css/2.1c5d1208.chunk.css",
+    "static/js/2.a7f35a61.chunk.js": "/React-ShoppingAPI/static/js/2.a7f35a61.chunk.js",
+    "static/js/2.a7f35a61.chunk.js.map": "/React-ShoppingAPI/static/js/2.a7f35a61.chunk.js.map",
+    "static/js/3.34fa5d50.chunk.js": "/React-ShoppingAPI/static/js/3.34fa5d50.chunk.js",
+    "static/js/3.34fa5d50.chunk.js.map": "/React-ShoppingAPI/static/js/3.34fa5d50.chunk.js.map",
+    "index.html": "/React-ShoppingAPI/index.html",
+    "static/css/2.1c5d1208.chunk.css.map": "/React-ShoppingAPI/static/css/2.1c5d1208.chunk.css.map",
+    "static/css/main.51b4ac36.chunk.css.map": "/React-ShoppingAPI/static/css/main.51b4ac36.chunk.css.map",
+    "static/js/2.a7f35a61.chunk.js.LICENSE.txt": "/React-ShoppingAPI/static/js/2.a7f35a61.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a69da659.js",
+    "static/css/2.1c5d1208.chunk.css",
+    "static/js/2.a7f35a61.chunk.js",
+    "static/css/main.51b4ac36.chunk.css",
+    "static/js/main.6077d743.chunk.js"
+  ]
+}
